@@ -1,6 +1,6 @@
 ## MU SHUI --github
 
-首先第一步先到[github官网进行注册]（https://github.com）
+首先第一步先到[github官网进行注册](https://github.com)
 
 ### Markdown
 
