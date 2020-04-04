@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## MU SHUI --github
 
-You can use the [editor on GitHub](https://github.com/mushui-linjie/test2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+首先第一步先到[github官网进行注册]（https://github.com）
 
 ### Markdown
 
