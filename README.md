@@ -1,6 +1,7 @@
-## MU SHUI --github
+## 自我总结使用github
 
-首先第一步先到[github官网进行注册](https://github.com)
+1.首先第一步先到[github官网进行注册](https://github.com)
+![TU](https://github.com/mushui-linjie/test2/blob/master/img/1586018701(1).jpg)
 
 ### Markdown
 
